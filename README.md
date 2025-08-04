@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello! I'm Async-Reaper </h1>
-# 💫 About Me: <br>
+
+## About Me: <br>
 I’m frontend-developer from Russia <br>
 I'm interested in web technologies and design (I especially like After Effect and Photoshop)<br>
 
